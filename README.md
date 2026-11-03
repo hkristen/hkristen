@@ -1,6 +1,6 @@
 ### Hi, I'm Harald
 
-Geospatial AI enthusiast with a soft spot for open source. After the startup rollercoaster, I now do applied research in environmental remote sensing at [Joanneum Research](https://www.joanneum.at), working on change detection and geospatial foundation models and building the tools I need along the way.
+Geospatial AI enthusiast with a soft spot for open source. After the startup rollercoaster, I now do applied research in environmental remote sensing at [Joanneum Research](https://www.joanneum.at) in Austria, monitoring the natural environment and describing how it changes with a good mix of Python, deep learning and LLMs. Some of the tools I build along the way end up here as open source.
 
 **Projects**
 
